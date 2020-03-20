@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="btie-js-0.0.1">
+    <output-path>C:\Users\nikit\IdeaProjects\btie\build\libs</output-path>
+    <root id="archive" name="btie-js-0.0.1.jar">
+      <element id="module-output" name="com.example.btie.jsMain" />
+    </root>
+  </artifact>
+</component>
